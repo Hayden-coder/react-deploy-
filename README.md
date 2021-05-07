@@ -13,3 +13,6 @@ npm start
 
 # Usage
 Click on a column header to sort by that column in ascending or descending order. Enter a search in the search box to query any of the columns.
+
+# screenshots
+<img width="908" alt="Screenshot 2021-05-07 104224" src="https://user-images.githubusercontent.com/74078719/117488274-11106200-af21-11eb-97e8-6bd914c0ff29.png">
